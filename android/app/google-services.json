@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671431980217",
+    "project_id": "note-ebaca",
+    "storage_bucket": "note-ebaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671431980217:android:3fa33ad6dc1ece6c4fd768",
+        "android_client_info": {
+          "package_name": "com.example.note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ8mQYAQoG89dcIIjs29o5zFII5mnyqZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
