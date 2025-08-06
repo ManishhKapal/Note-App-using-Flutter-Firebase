@@ -32,7 +32,7 @@ This is a note taking application built with Flutter for Android. It utilizes Fi
 ### Running the App
 
 1. Connect an Android device to your development machine or start an emulator.
-2. Run `flutter run` in the terminal to start the app.
+2. Run `flutter run` in the terminal to start the App.
 
 ### Deployment
 
