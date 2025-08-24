@@ -8,7 +8,7 @@ This is a note taking application built with Flutter for Android. It utilizes Fi
 * View notes in a user-friendly list.
 * Secure storage of notes in Firebase Firestore.
 * (Optional) Implement functionalities like:
-    * Search functionality for notes.
+    * Search functionality for Notes.
     * Note tagging/categorization.
     * Offline functionality with local storage and online syncing.
     * Light/dark theme switching.
